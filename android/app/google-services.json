@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17768687622",
+    "firebase_url": "https://aolwaterconservapp.firebaseio.com",
+    "project_id": "aolwaterconservapp",
+    "storage_bucket": "aolwaterconservapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17768687622:android:4de0d98ca025e38900fb87",
+        "android_client_info": {
+          "package_name": "com.artofliving.waterconservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17768687622-oahgf68d9ufb9gb0uenvol2elmheod14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiWH8Et9xxTsfDUUfRhSVLq_BxFqIDZWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17768687622-oahgf68d9ufb9gb0uenvol2elmheod14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
