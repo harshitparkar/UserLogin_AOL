@@ -24,5 +24,5 @@
 11. Sized Box
 
 
-![Untitled-1](https://user-images.githubusercontent.com/56834158/87589023-3b7aff80-c702-11ea-984c-63ef2791adc6.png)
+![GithubHarshitParkar](https://user-images.githubusercontent.com/56834158/87590001-bc86c680-c703-11ea-9c78-603e005eb5e4.png)
 
