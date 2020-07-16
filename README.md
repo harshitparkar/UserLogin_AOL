@@ -1,16 +1,29 @@
-# waterconservation
+# Art Of Living Internship - Flutter UserLogin App
+### What App Does ?
+1. Login with e-mail.
+2. Login with Google.
+3. Show widget of various forms
 
-A new Flutter application.
+### Challenge Faced:
+1. Firebase connection.
+2. Google sign-In.
+3. Firebase database fetching & updating.
+4. Keep user logged in even when app is closed.
 
-## Getting Started
+### Widgets Used in app:
+1. Alert Dialog
+2. Rich Text 
+3. Selectable Text 
+4. Flexible 
+5. Spacer 
+6. Divider 
+7. Ignore Pointer 
+8. Colour Filtered 
+9. ToolTip 
+10. Aspect Ratio 
+11. Sized Box
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Untitled-1](https://user-images.githubusercontent.com/56834158/87591043-64e95a80-c705-11ea-98c3-fd92a7efa605.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
