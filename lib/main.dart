@@ -18,3 +18,8 @@ class MyApp extends StatelessWidget {
   }
 }
 
+
+/// Go to Android -> gradlew   (  |>|  ) with this logo --> RUN it as terminal
+/// Run this code in terminal ---> gradlew signingReport
+/// Make sure you have implemented all dependencies and packages in the yml and main also check the json file from google firebase.
+/// First Implement all the layouts later run for SHA number i find this easy.
