@@ -20,7 +20,6 @@ class _HomePageState extends State<HomePage> {
     this.googleSignIn = good;
   }
 
-  String emailSP = '';
   String userId = '';
   String name = '';
   String email = '';
@@ -345,7 +344,7 @@ class _AddDataState extends State<AddData> {
                               builder: (context) => HomePage(googleSignIn)));
                     },
                     padding: EdgeInsets.all(15),
-                    child: Text("Add data"),
+                    child: Text("Save"),
                   )
                 ],
               ),
